@@ -1,6 +1,6 @@
 # Olist (2016–2018) Recommender Challenge — Production-Ready CLI
 
-**Objetiv:** deliver a “production-ready” package with:
+**Objetive:** deliver a “production-ready” package with:
 - **Analytics**: clear metrics + insights and their business implications.
 - **Modeling**: a simple and defensible recommender/predictor with an evaluation metric.
 - **Code**: modular, with a CLI and at least one unit test.
