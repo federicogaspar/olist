@@ -103,7 +103,7 @@ python -m src.main --customer_id 7c396fd4830fd04220f7ac84c7b01fbb --top_k 5
 **Output (JSON):**
 ```json
 {
-  "8d50f5eadf13dc67e0ea3b5e1c8d7a7f": ["<product_id_1>", "<product_id_2>", "..."]
+  "7c396fd4830fd04220f7ac84c7b01fbb": ["<product_id_1>", "<product_id_2>", "..."]
 }
 ```
 
